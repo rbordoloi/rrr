@@ -14,7 +14,7 @@ install.packages("rrr")
 ### Install development version from github
 
 ``` r
-devtools::install_github("chrisaddy/rrr")
+devtools::install_github("SirUnknown2/rrr")
 ```
 
 Please send any issues, with minimally-reproducible code, and any feature requests or suggestions to the package [github issues portal](https://github.com/chrisaddy/rrr/issues).
